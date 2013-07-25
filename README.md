@@ -15,6 +15,14 @@ Example:
         do_main_program()
 
 
+Installation
+------------
+
+pip install daemoncxt
+
+
+Links
+-----
 This version is an unofficial mirror of 
 
 https://github.com/arnaudsj/python-daemon
