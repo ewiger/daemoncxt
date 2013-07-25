@@ -1,0 +1,4 @@
+pydaemon
+========
+
+Library to implement a well-behaved Unix daemon process
