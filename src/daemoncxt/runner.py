@@ -24,7 +24,7 @@ import errno
 
 import pidlockfile
 
-from daemoncxt import DaemonContext
+from daemon import DaemonContext
 
 
 class DaemonRunnerError(Exception):

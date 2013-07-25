@@ -38,7 +38,7 @@
     """
 
 import version
-from daemoncxt import DaemonContext
+from daemon import DaemonContext
 
 
 _version = version.version
