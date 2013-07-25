@@ -21,7 +21,7 @@ def readme():
 
 setup(
     name='DaemonCxt',
-    version='1.5.6',
+    version='1.5.7',
     description='Library to implement a well-behaved Unix daemon process',
     long_description=readme(),
     author='Yauhen Yakimovich',
